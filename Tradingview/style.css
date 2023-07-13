@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   background-color: pi;
+}
+
+#tradingview_c6efb{
+    width: 100%;
+    height: 100vh;
+}
